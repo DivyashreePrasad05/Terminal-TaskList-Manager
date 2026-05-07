@@ -1,4 +1,5 @@
 Terminal TaskList Manager🚀
+---
 📌 Description
 
 📅 Created a Python script that lets users manage a to-do list directly from the terminal.
@@ -30,20 +31,20 @@ Read a || book||not_done
 And also:
 - Prevent empty tasks from being added
 - Validate task numbers before completing/deleting
-
+---
 ▶️ How to Run
 Clone the repository
 Open terminal
 Run any file:
 python filename.py
-
+---
 🛠️ Tech Stack
 Python
+---
 🎯 Goal
 To build strong Python fundamentals and transition into real-world projects.
-
+---
 👩‍💻 Author
 Divyashree S P
 
-r
-© 20
+

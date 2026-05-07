@@ -37,12 +37,17 @@ Clone the repository
 Open terminal
 Run any file:
 python filename.py
+
 ---
+
 🛠️ Tech Stack
 Python
+
 ---
+
 🎯 Goal
 To build strong Python fundamentals and transition into real-world projects.
+
 ---
 👩‍💻 Author
 Divyashree S P

@@ -1,8 +1,8 @@
-Terminal TaskList Manager🚀
+#Terminal TaskList Manager🚀
 ---
-📌 Description
+##📌 Description
 
-📅 Created a Python script that lets users manage a to-do list directly from the terminal.
+###📅 Created a Python script that lets users manage a to-do list directly from the terminal.
 
 Program does:
 1. Allow users to:
@@ -32,7 +32,7 @@ And also:
 - Prevent empty tasks from being added
 - Validate task numbers before completing/deleting
 ---
-▶️ How to Run
+##▶️ How to Run
 Clone the repository
 Open terminal
 Run any file:
@@ -40,16 +40,16 @@ python filename.py
 
 ---
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Python
 
 ---
 
-🎯 Goal
+##🎯 Goal
 To build strong Python fundamentals and transition into real-world projects.
 
 ---
-👩‍💻 Author
+##👩‍💻 Author
 Divyashree S P
 
 

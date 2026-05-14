@@ -28,8 +28,6 @@ def display_tasks(tasks):
             print(f"{i}. [{checkbox}] {task['text']}")
     print()
 
-
-
 def task_manager():
     tasks = load_tasks()
 

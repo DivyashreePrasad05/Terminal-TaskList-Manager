@@ -1,5 +1,4 @@
-
-import os
+import os 
 
 TASK_FILE = "tasks.txt"
 

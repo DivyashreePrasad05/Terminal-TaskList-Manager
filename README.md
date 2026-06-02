@@ -11,7 +11,7 @@ Program does:
    - Mark a task as completed
    - Delete a task
    - Exit the app
-2. Save all tasks in a text file named `tasks.txt` so data persists between runs.
+2. Save all tasks in a text file named "tasks.txt" so data persists between runs.
 3. Display tasks with an index number and a ✔ if completed.
 
 Example menu:
@@ -22,8 +22,8 @@ Example menu:
 5. Exit
 
 Example output:
-our Tasks:
 
+our Tasks:
 Buy groceries||not_done
 Finish Python project||done
 Read a || book||not_done
